@@ -1,0 +1,382 @@
+{
+    "LinuxHacker": {
+        "direction": "内核态",
+        "type": "笔记",
+        "progress": 1,
+        "description": "Linux内核笔记"
+    },
+    "kdev": {
+        "direction": "内核态",
+        "type": "构建",
+        "progress": 1,
+        "diy": 1,
+        "description": "Linux内核开发环境构建工具 （2.*/3.*/4.*/5.*/6.*）"
+    },
+    "kflow": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "kenrel 内核函数调用关系分析工具"
+    },
+    "knotifier": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "kernel notifier "
+    },
+    "syspatch": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "syspatch 热补丁管理平台"
+    },
+    "OOMalyzer": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "diy": 1,
+        "description": "oom诊断工具"
+    },
+    "panicAlyzer": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "diy": 1,
+        "description": "oops/panic analyzer"
+    },
+    "kexplorer": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "diy": 1,
+        "description": "内核观测工具  Tracing/Probe/Observability "
+    },
+    "mbuild": {
+        "direction": "用户态",
+        "type": "构建",
+        "progress": 1,
+        "diy": 1,
+        "description": "multi rpmbuild"
+    },
+    "saydone": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "终端命令执行结果通知"
+    },
+    "dedup": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "递归目录删除重复文件工具"
+    },
+    "parser-elf": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "diy": 1,
+        "description": "ELF解释器及相关学习笔记"
+    },
+    "watchr": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "diy": 1,
+        "description": "Rocky Linux 8.6 路由表监测工具"
+    },
+    "kmod": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "kmod包解析"
+    },
+    "systemtap": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "system tracing and probing"
+    },
+    "bpftrace": {
+        "direction": "eBPF",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "bpftrace"
+    },
+    "bcc": {
+        "direction": "eBPF",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "Rocky Linux 8.6 bcc解析"
+    },
+    "eBPF": {
+        "direction": "eBPF",
+        "type": "笔记",
+        "progress": 1,
+        "description": "eBPF学习"
+    },
+    "libbpf": {
+        "direction": "eBPF",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": ""
+    },
+    "syscare": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "openeuler 开源热补丁项目syscare"
+    },
+    "kpatch": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "kpatch"
+    },
+    "livepatch": {
+        "direction": "内核态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "liveptach"
+    },
+    "drgn": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky linux 8.6 drgn-0.0.24解析"
+    },
+    "crash": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "内核crash分析"
+    },
+    "kexec-tools": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "kdump/kexec userspace tools"
+    },
+    "obs": {
+        "direction": "用户态",
+        "type": "构建",
+        "progress": 1,
+        "code": 1,
+        "description": "suse obs包构建工具"
+    },
+    "koji": {
+        "direction": "用户态",
+        "type": "构建",
+        "progress": 1,
+        "code": 1,
+        "description": "Rocky 8.6 koji项目解析"
+    },
+    "mock": {
+        "direction": "用户态",
+        "type": "构建",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky8.6 mock-4.1"
+    },
+    "rpmbuild": {
+        "direction": "用户态",
+        "type": "构建",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 rpmbuild"
+    },
+    "driverctl": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "Rocky 8.6 Linux设备驱动管理工具"
+    },
+    "procps": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "procps开源软件解析"
+    },
+    "systemd": {
+        "direction": "用户态",
+        "type": "服务",
+        "progress": 1,
+        "code": 1,
+        "description": "systemd"
+    },
+    "iproute": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "iproute"
+    },
+    "grub": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "grub-2.02-dev 制定版-增加FS写功能等"
+    },
+    "linux-0.12": {
+        "direction": "内核态",
+        "type": "书籍",
+        "progress": 1,
+        "description": "赵炯老师《linux-0.12 内核完全剖析》读书笔记及linux-0.12注释源码"
+    },
+    "The-design-and-implementation-of-a-64-bit-os": {
+        "direction": "内核态",
+        "type": "书籍",
+        "progress": 1,
+        "description": "《一个64位操作系统的设计与实现》读书笔记&随书源码"
+    },
+    "os-elephant": {
+        "direction": "内核态",
+        "type": "书籍",
+        "progress": 1,
+        "description": "《操作系统真象还原》源码及学习笔记（os-elephant）还原真相"
+    },
+    "vita": {
+        "direction": "内核态",
+        "type": "书籍",
+        "progress": 1,
+        "description": "《深度探索Linux操作系统 : 系统构建和原理解析》 学习笔记"
+    },
+    "X86-assembly-language-from-real-mode-to-protection-mode": {
+        "direction": "内核态",
+        "type": "书籍",
+        "progress": 1,
+        "description": "x86汇编语言 从实模式到保护模式"
+    },
+    "vim": {
+        "direction": "用户态",
+        "type": "配置",
+        "progress": 1,
+        "diy": 1,
+        "description": "自用vim配置"
+    },
+    "tmux": {
+        "direction": "用户态",
+        "type": "配置",
+        "progress": 1,
+        "diy": 1,
+        "description": "自用tmux配置"
+    },
+    "markdown-image-paste-delete": {
+        "direction": "用户态",
+        "type": "扩展",
+        "progress": 1,
+        "diy": 1,
+        "description": "Atom markdown贴图插件"
+    },
+    "gdb": {
+        "direction": "用户态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "gdb学习笔记"
+    },
+    "kgdb": {
+        "direction": "内核态",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": "kdgb内核调试"
+    },
+    "iperf3": {
+        "direction": "用户态",
+        "type": "工具",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 iperf3解析"
+    },
+    "irqbalance": {
+        "direction": "用户态",
+        "type": "服务",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 9.2 irqbalance 解析"
+    },
+    "learn-kvm": {
+        "direction": "虚拟化",
+        "type": "内核虚拟机",
+        "progress": 1,
+        "code": 1,
+        "description": "Qemu  KVM(Kernel Virtual Machine)学习笔记"
+    },
+    "libvirt": {
+        "direction": "虚拟化",
+        "type": "管理工具",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 libvirt解析"
+    },
+    "openstack": {
+        "direction": "虚拟化",
+        "type": "云平台",
+        "progress": 1,
+        "code": 1,
+        "description": "openstack学习笔记"
+    },
+    "docker": {
+        "direction": "云原生",
+        "type": "容器引擎",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 docker解析"
+    },
+    "k8s": {
+        "direction": "云原生",
+        "type": "容器编排",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 k8s解析"
+    },
+    "c": {
+        "direction": "编程语言",
+        "type": "编程语言",
+        "progress": 1,
+        "description": "c 编程语言"
+    },
+    "python": {
+        "direction": "编程语言",
+        "type": "编程语言",
+        "progress": 1,
+        "description": "python 编程语言"
+    },
+    "go": {
+        "direction": "编程语言",
+        "type": "编程语言",
+        "progress": 1,
+        "description": "go 编程语言"
+    },
+    "rust": {
+        "direction": "编程语言",
+        "type": "编程语言",
+        "progress": 1,
+        "description": "rust 编程语言"
+    },
+    "bash": {
+        "direction": "编程语言",
+        "type": "编程语言",
+        "progress": 1,
+        "description": "bash 编程语言"
+    }
+}
