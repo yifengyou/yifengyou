@@ -10,10 +10,5 @@
 -->
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=yifengyou&theme=dark&hide_border=true" alt="Streak Stats" width="500" />](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
-<div style="width: fit-content; margin-left: auto; margin-right: auto;">
-<img src="https://api.githubtrends.io/user/svg/yifengyou/langs?time_range=one_year&theme=dark" alt="Streak Stats" width="300"/>
-<img src="https://api.githubtrends.io/user/svg/yifengyou/repos?time_range=one_year&theme=dark" alt="Most Contributed Repositories" width="300" />
-</div>
-
 </div>
 
