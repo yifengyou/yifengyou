@@ -1,7 +1,3 @@
-## Hi All
-
-### My Stats
-
 <div align="center">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=yifengyou&theme=default&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
