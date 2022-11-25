@@ -6,9 +6,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yifengyou&theme=default&hide_border=true" alt="Streak Stats" width="49%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/19882390/203891125-3d50010e-dc87-45a9-a53c-d53ff21c3e4b.png" width="49%" />
+<img src="https://user-images.githubusercontent.com/19882390/203891125-3d50010e-dc87-45a9-a53c-d53ff21c3e4b.png" width="25%" />
 
-<img src="https://user-images.githubusercontent.com/19882390/203891125-3d50010e-dc87-45a9-a53c-d53ff21c3e4b.png" width="49%" />
+<img src="https://user-images.githubusercontent.com/19882390/203891125-3d50010e-dc87-45a9-a53c-d53ff21c3e4b.png" width="25%" />
 
   
 </div>
