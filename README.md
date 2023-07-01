@@ -59,5 +59,11 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/knotifier?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-13%25-green&logo=github"/></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/kexplorer" target="_blank"> kexplorer </a></td>
+        <td> <sub> 内核观测工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kexplorer?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
     </tbody>
 </table>
