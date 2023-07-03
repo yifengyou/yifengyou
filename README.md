@@ -75,6 +75,12 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kexplorer?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/saydone" target="_blank"> saydone </a></td>
+        <td> <sub> 命令执行结果通知工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/saydone?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-10%25-green&logo=github"/></td>
+    </tr>
     </tbody>
 </table>
 
