@@ -64,6 +64,12 @@
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-63%25-green&logo=github"/></td>
     </tr>
     <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/kflow" target="_blank"> kflow </a></td>
+        <td> <sub> 内核静态分析工具-调用路径分析 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kflow?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
         <td align="center" ><a href="https://github.com/yifengyou/knotifier" target="_blank"> knotifier </a></td>
         <td> <sub> 跟踪上游内核源代码变更情况 </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/knotifier?style=flat-square&labelColor=black"/></td>
@@ -88,22 +94,118 @@
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-50%25-green&logo=github"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/yifengyou/kflow" target="_blank"> kflow </a></td>
-        <td> <sub> 内核静态分析工具-调用路径分析 </sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kflow?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
-    </tr>
-    </tr>
-    <tr>
         <td align="center" ><a href="https://github.com/yifengyou/dedup" target="_blank"> dedup </a></td>
         <td> <sub> 重复文件去除工具 </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/dedup?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/parser-elf" target="_blank"> parser-elf </a></td>
+        <td> <sub> elf解析器 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/parser-elf?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-30%25-green&logo=github"/></td>
+    </tr>
     </tbody>
 </table>
 
+**开源软件二次开发/解析**
 
+<table class="table table-striped table-bordered table-vcenter" align="center" />
+    <tbody>
+    <tr><th> 名称/Title </th> <th> 描述/Description </th> <th> 类型/Type </th>  <th> 赞/Stars </th> <th> 进度/Progressing </th></tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/kmod" target="_blank"> kmod </a></td>
+        <td> <sub> modprobe/lsmod/rmmod </sub> </td>
+        <td> <sub> 内核模块工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kmod?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/systemtap" target="_blank"> systemtap </a></td>
+        <td> <sub> systemtap </sub> </td>
+        <td> <sub> 内核模块工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/systemtap?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/systemtap-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace </a></td>
+        <td> <sub> bpftrace </sub> </td>
+        <td> <sub> 系统观测工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bpftrace?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/obs" target="_blank"> obs </a></td>
+        <td> <sub> obs </sub> </td>
+        <td> <sub> 包构建 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/obs?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/koji" target="_blank"> koji </a></td>
+        <td> <sub> 基于Rocky Linux 8.6/Fedora基础设施koji项目/koji-1.30.1 </sub> </td>
+        <td> <sub> 包构建 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/koji?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-33%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/mock" target="_blank"> mock </a></td>
+        <td> <sub> mock </sub> </td>
+        <td> <sub> 包构建 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/mock?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/rpmbuild" target="_blank"> rpmbuild </a></td>
+        <td> <sub> rpm包构建 </sub> </td>
+        <td> <sub> 包构建 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rpmbuild?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/udev" target="_blank"> udev </a></td>
+        <td> <sub> udev </sub> </td>
+        <td> <sub> 设备管理器 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/udev?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/systemtap-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/driverctl" target="_blank"> driverctl </a></td>
+        <td> <sub> driverctl </sub> </td>
+        <td> <sub> 驱动工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/driverctl?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/systemtap-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/procps" target="_blank"> procps </a></td>
+        <td> <sub> free/top/ps </sub> </td>
+        <td> <sub> procfs工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/procps?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/sysstat" target="_blank"> sysstat </a></td>
+        <td> <sub> sysstat </sub> </td>
+        <td> <sub> 系统工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/sysstat?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/systemd" target="_blank"> systemd </a></td>
+        <td> <sub> systemd </sub> </td>
+        <td> <sub> 系统工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/systemd?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/grub" target="_blank"> grub </a></td>
+        <td> <sub> 增加覆盖写支持 </sub> </td>
+        <td> <sub> 系统引导工具 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/grub?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-20%25-green&logo=github"/></td>
+    </tr>
+    </tbody>
+</table>
 
 **读书笔记**
 
@@ -128,5 +230,43 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/os-elephant?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github"/></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/vita" target="_blank"> vita </a></td>
+        <td> <sub> 《深度探索Linux操作系统 : 系统构建和原理解析》 笔记 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/vita?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-40%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode" target="_blank"> X86-assembly-language-from-real-mode-to-protection-mode </a></td>
+        <td> <sub> 《x86汇编语言 从实模式到保护模式》 笔记 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-40%25-green&logo=github"/></td>
+    </tr>
     </tbody>
 </table>
+
+**环境配置**
+
+<table class="table table-striped table-bordered table-vcenter" align="center" />
+    <tbody>
+    <tr><th> 名称/Title </th> <th> 描述/Description </th> <th> 赞/Stars </th> <th> 进度/Progressing </th></tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/vim" target="_blank"> vim </a></td>
+        <td> <sub> vim配置 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/vim?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-80%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/tmux" target="_blank"> tmux </a></td>
+        <td> <sub> tmux配置 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/tmux?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-50%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/markdown-image-paste-delete" target="_blank"> markdown-image-paste-delete </a></td>
+        <td> <sub> Atom贴图插件 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/markdown-image-paste-delete?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github"/></td>
+    </tr>
+    </tbody>
+</table>    
