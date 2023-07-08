@@ -67,7 +67,7 @@
         <td align="center" ><a href="https://github.com/yifengyou/kflow" target="_blank"> kflow </a></td>
         <td> <sub> 内核静态分析工具-调用路径分析 </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kflow?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-10%25-green&logo=github"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/yifengyou/knotifier" target="_blank"> knotifier </a></td>
@@ -85,7 +85,7 @@
         <td align="center" ><a href="https://github.com/yifengyou/saydone" target="_blank"> saydone </a></td>
         <td> <sub> 命令执行结果通知工具 </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/saydone?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-50%25-green&logo=github"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-60%25-green&logo=github"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/yifengyou/syncor" target="_blank"> syncor </a></td>
@@ -97,7 +97,7 @@
         <td align="center" ><a href="https://github.com/yifengyou/dedup" target="_blank"> dedup </a></td>
         <td> <sub> 重复文件去除工具 </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/dedup?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-36%25-green&logo=github"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/yifengyou/parser-elf" target="_blank"> parser-elf </a></td>
