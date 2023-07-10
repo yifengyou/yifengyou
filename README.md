@@ -163,13 +163,6 @@
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/yifengyou/udev" target="_blank"> udev </a></td>
-        <td> <sub> udev </sub> </td>
-        <td> <sub> 设备管理器 </sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/udev?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/systemtap-1%25-green&logo=github"/></td>
-    </tr>
-    <tr>
         <td align="center" ><a href="https://github.com/yifengyou/driverctl" target="_blank"> driverctl </a></td>
         <td> <sub> driverctl </sub> </td>
         <td> <sub> 驱动工具 </sub> </td>
