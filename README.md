@@ -162,6 +162,20 @@
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
     <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/drgn" target="_blank"> drgn </a></td>
+        <td> <sub> 可编程内核调试工具 </sub> </td>
+        <td> <sub> (内核) 内核调试 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/drgn?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/yifengyou/drgn" target="_blank"> crash </a></td>
+        <td> <sub> 内核调试工具 </sub> </td>
+        <td> <sub> (内核) 内核调试 </sub> </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/crash?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
         <td align="center" ><a href="https://github.com/yifengyou/obs" target="_blank"> obs </a></td>
         <td> <sub> obs </sub> </td>
         <td> <sub> (操作系统) 包构建 </sub> </td>
