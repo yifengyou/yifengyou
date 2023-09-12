@@ -62,19 +62,11 @@
     <tr>
       <th></th>
       <th>内核态</th>
-      <th>用户态态</th>
     </tr>
     <tr>
         <td> 构建 </td>
         <td>
             <a href="https://github.com/yifengyou/kdev">kdev</a><br/>
-        </td>
-        <td>
-                <a href="https://github.com/yifengyou/mbuild">mbuild</a><br/>
-                <a href="https://github.com/yifengyou/obs">obs</a><br/>
-                <a href="https://github.com/yifengyou/koji">koji</a><br/>
-                <a href="https://github.com/yifengyou/mock">mock</a><br/>
-                <a href="https://github.com/yifengyou/rpmbuild">rpmbuild</a><br/>
         </td>
     </tr>
     <tr>
@@ -87,16 +79,6 @@
             <a href="https://github.com/yifengyou/syscare">syscare</a><br/>
             <a href="https://github.com/yifengyou/kpatch">kpatch</a><br/>
             <a href="https://github.com/yifengyou/livepatch">livepatch</a><br/>
-        </td>
-        <td>
-                <a href="https://github.com/yifengyou/saydone">saydone</a><br/>
-                <a href="https://github.com/yifengyou/dedup">dedup</a><br/>
-                <a href="https://github.com/yifengyou/parser-elf">parser-elf</a><br/>
-                <a href="https://github.com/yifengyou/driverctl">driverctl</a><br/>
-                <a href="https://github.com/yifengyou/procps">procps</a><br/>
-                <a href="https://github.com/yifengyou/iproute">iproute</a><br/>
-                <a href="https://github.com/yifengyou/grub">grub</a><br/>
-                <a href="https://github.com/yifengyou/iperf3">iperf3</a><br/>
         </td>
     </tr>
     <tr>
@@ -114,17 +96,10 @@
             <a href="https://github.com/yifengyou/bcc">bcc</a><br/>
             <a href="https://github.com/yifengyou/kgdb">kgdb</a><br/>
         </td>
-        <td>
-                <a href="https://github.com/yifengyou/gdb">gdb</a><br/>
-        </td>
     </tr>
     <tr>
         <td> 服务 </td>
         <td>
-        </td>
-        <td>
-                <a href="https://github.com/yifengyou/systemd">systemd</a><br/>
-                <a href="https://github.com/yifengyou/irqbalance">irqbalance</a><br/>
         </td>
     </tr>
     <tr>
@@ -136,13 +111,69 @@
             <a href="https://github.com/yifengyou/vita">vita</a><br/>
             <a href="https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode">X86-assembly-language-from-real-mode-to-protection-mode</a><br/>
         </td>
-        <td>
-        </td>
     </tr>
     <tr>
         <td> 配置 </td>
         <td>
         </td>
+    </tr>
+    <tr>
+        <td> 扩展 </td>
+        <td>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="table table-striped table-bordered table-vcenter" align="center" />
+  <tbody>
+    <tr>
+      <th></th>
+      <th>用户态</th>
+    </tr>
+    <tr>
+        <td> 构建 </td>
+        <td>
+                <a href="https://github.com/yifengyou/mbuild">mbuild</a><br/>
+                <a href="https://github.com/yifengyou/obs">obs</a><br/>
+                <a href="https://github.com/yifengyou/koji">koji</a><br/>
+                <a href="https://github.com/yifengyou/mock">mock</a><br/>
+                <a href="https://github.com/yifengyou/rpmbuild">rpmbuild</a><br/>
+        </td>
+    </tr>
+    <tr>
+        <td> 工具 </td>
+        <td>
+                <a href="https://github.com/yifengyou/saydone">saydone</a><br/>
+                <a href="https://github.com/yifengyou/dedup">dedup</a><br/>
+                <a href="https://github.com/yifengyou/parser-elf">parser-elf</a><br/>
+                <a href="https://github.com/yifengyou/driverctl">driverctl</a><br/>
+                <a href="https://github.com/yifengyou/procps">procps</a><br/>
+                <a href="https://github.com/yifengyou/iproute">iproute</a><br/>
+                <a href="https://github.com/yifengyou/grub">grub</a><br/>
+                <a href="https://github.com/yifengyou/iperf3">iperf3</a><br/>
+        </td>
+    </tr>
+    <tr>
+        <td> 调试观测 </td>
+        <td>
+                <a href="https://github.com/yifengyou/gdb">gdb</a><br/>
+        </td>
+    </tr>
+    <tr>
+        <td> 服务 </td>
+        <td>
+                <a href="https://github.com/yifengyou/systemd">systemd</a><br/>
+                <a href="https://github.com/yifengyou/irqbalance">irqbalance</a><br/>
+        </td>
+    </tr>
+    <tr>
+        <td> 书籍 </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td> 配置 </td>
         <td>
                 <a href="https://github.com/yifengyou/vim">vim</a><br/>
                 <a href="https://github.com/yifengyou/tmux">tmux</a><br/>
@@ -150,8 +181,6 @@
     </tr>
     <tr>
         <td> 扩展 </td>
-        <td>
-        </td>
         <td>
                 <a href="https://github.com/yifengyou/markdown-image-paste-delete">markdown-image-paste-delete</a><br/>
         </td>

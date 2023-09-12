@@ -8,7 +8,7 @@ import requests
 
 from jinja2 import Template
 
-CURRENT_VERSION = "0.0.1"
+CURRENT_VERSION = "0.0.2-20230912"
 GITHUB_NAMESPACE = "yifengyou"
 REPOS = None
 TOKEN_FILE = "/etc/yifengyou"
@@ -215,7 +215,6 @@ def handle_generate_profile(args):
     <tr>
       <th></th>
       <th>内核态</th>
-      <th>用户态态</th>
     </tr>
     {%- for type_name,typeinfo_list  in data["type"].items() %}
     <tr>
@@ -227,6 +226,20 @@ def handle_generate_profile(args):
             {%- endif %}
         {%- endfor %}
         </td>
+    </tr>
+    {%- endfor %}
+  </tbody>
+</table>
+
+<table class="table table-striped table-bordered table-vcenter" align="center" />
+  <tbody>
+    <tr>
+      <th></th>
+      <th>用户态</th>
+    </tr>
+    {%- for type_name,typeinfo_list  in data["type"].items() %}
+    <tr>
+        <td> {{type_name}} </td>
         <td>
         {%- for info  in typeinfo_list %}
             {%- if info["direction"] == "用户态" and info["type"] == type_name  %}
