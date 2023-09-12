@@ -180,9 +180,6 @@ def handle_generate_profile(args):
             "书籍": [PERINFO],
             ...
         },
-        "diy": [PERINFO],
-        "code": [PERINFO],
-        "book": [PERINFO],
         "all": [PERINFO]
     }
     """
@@ -195,7 +192,7 @@ def handle_generate_profile(args):
         if 'diy' in value and value['diy'] == 1:
             value["label"] = "自研"
         elif 'code' in value and value['code'] == 1:
-            value["label"] = "代码解析"
+            value["label"] = "应用、解析"
         elif 'type' in value and value['type'] == "书籍":
             value["label"] = "书籍"
 
@@ -207,8 +204,6 @@ def handle_generate_profile(args):
             if type not in data["userspace"]:
                 data["userspace"][type] = []
             data["userspace"][type].append(value)
-
-
 
         data["all"].append(value)
 

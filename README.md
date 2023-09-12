@@ -111,7 +111,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/kmod" target="_blank"> kmod</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> kmod包解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kmod?style=flat-square&labelColor=black"/></td>
@@ -121,7 +121,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/syscare" target="_blank"> syscare</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> openeuler 开源热补丁项目syscare </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/syscare?style=flat-square&labelColor=black"/></td>
@@ -131,7 +131,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/kpatch" target="_blank"> kpatch</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> kpatch </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kpatch?style=flat-square&labelColor=black"/></td>
@@ -141,7 +141,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/livepatch" target="_blank"> livepatch</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> liveptach </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/livepatch?style=flat-square&labelColor=black"/></td>
@@ -191,7 +191,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/systemtap" target="_blank"> systemtap</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> system tracing and probing </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/systemtap?style=flat-square&labelColor=black"/></td>
@@ -201,7 +201,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> bpftrace </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bpftrace?style=flat-square&labelColor=black"/></td>
@@ -211,7 +211,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/drgn" target="_blank"> drgn</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> Programmable debugger </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/drgn?style=flat-square&labelColor=black"/></td>
@@ -221,7 +221,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/crash" target="_blank"> crash</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> 内核crash分析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/crash?style=flat-square&labelColor=black"/></td>
@@ -231,7 +231,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/kexec-tools" target="_blank"> kexec-tools</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> kdump/kexec userspace tools </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kexec-tools?style=flat-square&labelColor=black"/></td>
@@ -241,7 +241,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> Rocky Linux 8.6 bcc解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bcc?style=flat-square&labelColor=black"/></td>
@@ -251,7 +251,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/kgdb" target="_blank"> kgdb</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> kdgb内核调试 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kgdb?style=flat-square&labelColor=black"/></td>
@@ -311,7 +311,7 @@
         <td> 笔记 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> LinuxHacker </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat-square&labelColor=black"/></td>
@@ -345,7 +345,7 @@
         <td> 构建 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/obs" target="_blank"> obs</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> suse obs包构建工具 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/obs?style=flat-square&labelColor=black"/></td>
@@ -355,7 +355,7 @@
         <td> 构建 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/koji" target="_blank"> koji</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> Rocky 8.6 koji项目解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/koji?style=flat-square&labelColor=black"/></td>
@@ -365,7 +365,7 @@
         <td> 构建 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/mock" target="_blank"> mock</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> rocky8.6 mock-4.1 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/mock?style=flat-square&labelColor=black"/></td>
@@ -375,7 +375,7 @@
         <td> 构建 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/rpmbuild" target="_blank"> rpmbuild</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> rocky 8.6 rpmbuild </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rpmbuild?style=flat-square&labelColor=black"/></td>
@@ -415,7 +415,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/driverctl" target="_blank"> driverctl</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> Rocky 8.6 Linux设备驱动管理工具 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/driverctl?style=flat-square&labelColor=black"/></td>
@@ -425,7 +425,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/procps" target="_blank"> procps</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> procps开源软件解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/procps?style=flat-square&labelColor=black"/></td>
@@ -435,7 +435,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/iproute" target="_blank"> iproute</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> iproute </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/iproute?style=flat-square&labelColor=black"/></td>
@@ -445,7 +445,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/grub" target="_blank"> grub</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> grub-2.02-dev 制定版-增加FS写功能等 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/grub?style=flat-square&labelColor=black"/></td>
@@ -455,7 +455,7 @@
         <td> 工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/iperf3" target="_blank"> iperf3</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> rocky 8.6 iperf3解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/iperf3?style=flat-square&labelColor=black"/></td>
@@ -465,7 +465,7 @@
         <td> 服务 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/systemd" target="_blank"> systemd</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> systemd </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/systemd?style=flat-square&labelColor=black"/></td>
@@ -475,7 +475,7 @@
         <td> 服务 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/irqbalance" target="_blank"> irqbalance</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> rocky 9.2 irqbalance 解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/irqbalance?style=flat-square&labelColor=black"/></td>
@@ -515,7 +515,7 @@
         <td> 调试观测 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/gdb" target="_blank"> gdb</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/代码解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> <sub> gdb学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/gdb?style=flat-square&labelColor=black"/></td>
