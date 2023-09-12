@@ -57,11 +57,12 @@
 
 
 **方向/类别**
-<table class="table table-striped table-bordered table-vcenter" align="center" />
+
+<table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 类型\内核态 </th>
-      <th> 名称/Name </th>
+      <th> 内核态 </th>
+      <th> 项目名/ProjName </th>
       <th> 描述/Description </th>
       <th> 赞/Stars </th>
       <th> 进度/Progressing </th>
@@ -237,11 +238,11 @@
   </tbody>
 </table>
 
-<table class="table table-striped table-bordered table-vcenter" align="center" />
+<table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 类型\用户态 </th>
-      <th> 名称/Name </th>
+      <th> 用户态 </th>
+      <th> 项目名/ProjName </th>
       <th> 描述/Description </th>
       <th> 赞/Stars </th>
       <th> 进度/Progressing </th>
@@ -386,7 +387,7 @@
 <table class="table table-striped table-bordered table-vcenter" align="center" />
     <tbody>
     <tr>
-        <th> 名称/Title </th>
+        <th> 项目名/ProjName </th>
         <th> 类型/Type </th>
         <th> 描述/Description </th>
         <th> 赞/Stars </th>
@@ -504,7 +505,7 @@
 <table class="table table-striped table-bordered table-vcenter" align="center" />
     <tbody>
     <tr>
-        <th> 名称/Title </th>
+        <th> 项目名/ProjName </th>
         <th> 类型/Type </th>
         <th> 描述/Description </th>
         <th> 赞/Stars </th>
@@ -679,7 +680,7 @@
 <table class="table table-striped table-bordered table-vcenter" align="center" />
     <tbody>
     <tr>
-        <th> 名称/Title </th>
+        <th> 项目名/ProjName </th>
         <th> 类型/Type </th>
         <th> 描述/Description </th>
         <th> 赞/Stars </th>
