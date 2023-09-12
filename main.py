@@ -57,11 +57,6 @@ CONTENT = """
 
 **环境/工具**
 
-<a class="oomAlyzer" href="https://img.shields.io/github/stars/yifengyou/syspatch?style=flat-square&labelColor=black">
-    <span>oomAlyzer</span>
-    <img src="https://img.shields.io/github/stars/yifengyou/syspatch?style=flat-square&labelColor=black" style="display:none">
-</a>
-
 <div align="center">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker">
