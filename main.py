@@ -218,29 +218,21 @@ def handle_generate_profile(args):
 <table class="table table-striped table-bordered table-vcenter" align="center" />
   <tbody>
     <tr>
-      <th></th>
-      <th>内核态</th>
+      <th> 类型\内核态 </th>
+      <th> 名称/Name </th>
+      <th> 描述/Description </th>
+      <th> 赞/Stars </th>
+      <th> 进度/Progressing </th>
     </tr>
     {%- for type_name,typeinfo_list in data["kernel"].items() %}
     <tr>
-        <td> {{type_name}} </td>
-        <td>
-        <table style="border:none;">
         {%- for info  in typeinfo_list %}
-            <tr style="border:none;">
-                <td style="border:none;">
-                    <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a>
-                </td>
-                <td style="border:none;">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/>
-                </td>
-                <td style="border:none;">
-                    <img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/>
-                </td>
-            </tr>
+        <td> {{type_name}} </td>
+        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
+        <td> <sub> {{info["description"]}} </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
         {%- endfor %}
-        </table>
-        </td>
     </tr>
     {%- endfor %}
   </tbody>
@@ -249,17 +241,21 @@ def handle_generate_profile(args):
 <table class="table table-striped table-bordered table-vcenter" align="center" />
   <tbody>
     <tr>
-      <th></th>
-      <th>用户态</th>
+      <th> 类型\用户态 </th>
+      <th> 名称/Name </th>
+      <th> 描述/Description </th>
+      <th> 赞/Stars </th>
+      <th> 进度/Progressing </th>
     </tr>
-    {%- for type_name,typeinfo_list  in data["userspace"].items() %}
+    {%- for type_name,typeinfo_list in data["userspace"].items() %}
     <tr>
-        <td> {{type_name}} </td>
-        <td>
         {%- for info  in typeinfo_list %}
-            <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a><br/>
+        <td> {{type_name}} </td>
+        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
+        <td> <sub> {{info["description"]}} </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
         {%- endfor %}
-        </td>
     </tr>
     {%- endfor %}
   </tbody>
