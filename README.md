@@ -68,8 +68,11 @@
         <td>
         <table>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kdev">kdev</a>
+                </td>
+                <td style="border:none;">
+                    Linux内核开发环境构建工具 （2.*/3.*/4.*/5.*/6.*）
                 </td>
             </tr>
         </table>
@@ -80,38 +83,59 @@
         <td>
         <table>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kflow">kflow</a>
                 </td>
+                <td style="border:none;">
+                    kenrel 内核函数调用关系分析工具
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/knotifier">knotifier</a>
                 </td>
+                <td style="border:none;">
+                    kernel notifier 
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/syspatch">syspatch</a>
                 </td>
+                <td style="border:none;">
+                    syspatch 热补丁管理平台
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kmod">kmod</a>
                 </td>
+                <td style="border:none;">
+                    kmod包解析
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/syscare">syscare</a>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/yifengyou/kpatch">kpatch</a>
+                <td style="border:none;">
+                    openeuler 开源热补丁项目syscare
                 </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
+                    <a href="https://github.com/yifengyou/kpatch">kpatch</a>
+                </td>
+                <td style="border:none;">
+                    kpatch
+                </td>
+            </tr>
+            <tr>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/livepatch">livepatch</a>
+                </td>
+                <td style="border:none;">
+                    liveptach
                 </td>
             </tr>
         </table>
@@ -122,58 +146,91 @@
         <td>
         <table>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/OOMalyzer">OOMalyzer</a>
                 </td>
+                <td style="border:none;">
+                    oom诊断工具
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/panicAlyzer">panicAlyzer</a>
                 </td>
+                <td style="border:none;">
+                    oops/panic analyzer
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kexplorer">kexplorer</a>
                 </td>
+                <td style="border:none;">
+                    内核观测工具  Tracing/Probe/Observability 
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/watchr">watchr</a>
                 </td>
+                <td style="border:none;">
+                    Rocky Linux 8.6 路由表监测工具
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/systemtap">systemtap</a>
                 </td>
+                <td style="border:none;">
+                    system tracing and probing
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/bpftrace">bpftrace</a>
                 </td>
+                <td style="border:none;">
+                    bpftrace
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/drgn">drgn</a>
                 </td>
+                <td style="border:none;">
+                    Programmable debugger
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/crash">crash</a>
                 </td>
+                <td style="border:none;">
+                    内核crash分析
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kexec-tools">kexec-tools</a>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/yifengyou/bcc">bcc</a>
+                <td style="border:none;">
+                    kdump/kexec userspace tools
                 </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
+                    <a href="https://github.com/yifengyou/bcc">bcc</a>
+                </td>
+                <td style="border:none;">
+                    Rocky Linux 8.6 bcc解析
+                </td>
+            </tr>
+            <tr>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/kgdb">kgdb</a>
+                </td>
+                <td style="border:none;">
+                    kdgb内核调试
                 </td>
             </tr>
         </table>
@@ -184,28 +241,43 @@
         <td>
         <table>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/linux-0.12">linux-0.12</a>
                 </td>
+                <td style="border:none;">
+                    赵炯老师《linux-0.12 内核完全剖析》读书笔记及linux-0.12注释源码
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os">The-design-and-implementation-of-a-64-bit-os</a>
                 </td>
+                <td style="border:none;">
+                    《一个64位操作系统的设计与实现》读书笔记&随书源码
+                </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/os-elephant">os-elephant</a>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/yifengyou/vita">vita</a>
+                <td style="border:none;">
+                    《操作系统真象还原》源码及学习笔记（os-elephant）还原真相
                 </td>
             </tr>
             <tr>
-                <td>
+                <td style="border:none;">
+                    <a href="https://github.com/yifengyou/vita">vita</a>
+                </td>
+                <td style="border:none;">
+                    《深度探索Linux操作系统 : 系统构建和原理解析》 学习笔记
+                </td>
+            </tr>
+            <tr>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode">X86-assembly-language-from-real-mode-to-protection-mode</a>
+                </td>
+                <td style="border:none;">
+                    x86汇编语言 从实模式到保护模式
                 </td>
             </tr>
         </table>

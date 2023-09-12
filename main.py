@@ -228,8 +228,11 @@ def handle_generate_profile(args):
         <table>
         {%- for info  in typeinfo_list %}
             <tr>
-                <td>
+                <td style="border:none;">
                     <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a>
+                </td>
+                <td style="border:none;">
+                    {{info["description"]}}
                 </td>
             </tr>
         {%- endfor %}
