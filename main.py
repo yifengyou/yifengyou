@@ -225,14 +225,17 @@ def handle_generate_profile(args):
     <tr>
         <td> {{type_name}} </td>
         <td>
-        <table>
+        <table style="border:none;">
         {%- for info  in typeinfo_list %}
-            <tr>
+            <tr style="border:none;">
                 <td style="border:none;">
                     <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a>
                 </td>
                 <td style="border:none;">
-                    {{info["description"]}}
+                    <img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/>
+                </td>
+                <td style="border:none;">
+                    <img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/>
                 </td>
             </tr>
         {%- endfor %}
