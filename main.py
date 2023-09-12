@@ -25,7 +25,7 @@ CONTENT = """
 <img src="https://user-images.githubusercontent.com/19882390/203893616-72e4b570-2628-4067-980b-a73aab253c7b.png" width="25%"  alt="钉钉" title="钉钉"/>
 
   <br><br>
-  <strong>技术方向：操作系统、内核、虚拟化、云原生 欢迎交流~）</strong>
+  <strong>技术方向：操作系统、内核、虚拟化、云原生 :blush: 欢迎交流~ :blush: </strong>
   <br><br>
     <a href="https://github.com/yifengyou">
       <img src="https://badges.strrl.dev/visits/yifengyou/yifengyou?style=flat-square&color=black&logo=github">
