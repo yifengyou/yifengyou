@@ -158,7 +158,7 @@
         "type": "构建",
         "progress": 1,
         "code": 1,
-        "description": "基于Rocky Linux 8.6/Fedora基础设施koji项目/koji-1.30.1"
+        "description": "Rocky 8.6 koji项目解析"
     },
     "mock": {
         "direction": "用户态",
@@ -179,7 +179,7 @@
         "type": "工具",
         "progress": 1,
         "code": 1,
-        "description": "driverctl is a tool for manipulating and inspecting the system device driver choices."
+        "description": "Rocky 8.6 Linux设备驱动管理工具"
     },
     "procps": {
         "direction": "用户态",
@@ -258,7 +258,7 @@
         "type": "扩展",
         "progress": 1,
         "diy": 1,
-        "description": "Atom markdown快速贴图/删图插件(atom markdown image paste delete plugin)"
+        "description": "Atom markdown贴图插件"
     },
     "bcc": {
         "direction": "内核态",
@@ -294,5 +294,12 @@
         "progress": 1,
         "code": 1,
         "description": "rocky 9.2 irqbalance 解析"
+    },
+    "LinuxHacker": {
+        "direction": "内核态",
+        "type": "笔记",
+        "progress": 1,
+        "code": 1,
+        "description": "LinuxHacker"
     }
 }
