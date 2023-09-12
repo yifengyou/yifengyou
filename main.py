@@ -192,6 +192,13 @@ def handle_generate_profile(args):
         type = value["type"]
         value["prj"] = key
 
+        if 'diy' in value and value['diy'] == 1:
+            value["label"] = "自研"
+        elif 'code' in value and value['code'] == 1:
+            value["label"] = "代码解析"
+        elif 'type' in value and value['type'] == "书籍":
+            value["label"] = "书籍"
+
         if dir == "内核态":
             if type not in data["kernel"]:
                 data["kernel"][type] = []
@@ -201,25 +208,18 @@ def handle_generate_profile(args):
                 data["userspace"][type] = []
             data["userspace"][type].append(value)
 
-        if 'diy' in value and value['diy'] == 1:
-            data["diy"].append(value)
 
-        if 'code' in value and value['code'] == 1:
-            data["code"].append(value)
-
-        if 'type' in value and value['type'] == "书籍":
-            data["book"].append(value)
 
         data["all"].append(value)
 
     template = """
 
-**方向/类别**
+**内核态**
 
 <table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 内核态 </th>
+      <th> 类别 </th>
       <th> 项目名/ProjName </th>
       <th> 描述/Description </th>
       <th> 赞/Stars </th>
@@ -229,7 +229,7 @@ def handle_generate_profile(args):
     {%- for info  in typeinfo_list %}
     <tr>
         <td> {{type_name}} </td>
-        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
+        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} {{ info["label"] }}</a></td>
         <td> <sub> {{info["description"]}} </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
@@ -239,10 +239,12 @@ def handle_generate_profile(args):
   </tbody>
 </table>
 
+**用户态**
+
 <table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 用户态 </th>
+      <th> 类别 </th>
       <th> 项目名/ProjName </th>
       <th> 描述/Description </th>
       <th> 赞/Stars </th>
@@ -252,79 +254,12 @@ def handle_generate_profile(args):
     {%- for info  in typeinfo_list %}
     <tr>
         <td> {{type_name}} </td>
-        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
+        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} {{ info["label"] }}</a></td>
         <td> <sub> {{info["description"]}} </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
     </tr>
     {%- endfor %}
-    {%- endfor %}
-  </tbody>
-</table>
-
-**自研工具/系统**
-<table class="table table-striped table-bordered table-vcenter" align="center" />
-    <tbody>
-    <tr>
-        <th> 项目名/ProjName </th>
-        <th> 类型/Type </th>
-        <th> 描述/Description </th>
-        <th> 赞/Stars </th>
-        <th> 进度/Progressing </th>
-    </tr>    
-    {%- for info  in data["diy"] %}
-    <tr>
-        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
-        <td> <sub> {{info["type"]}} </td>
-        <td> <sub> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
-    </tr>
-    {%- endfor %}
-  </tbody>
-</table>
-
-**代码解析/二次开发**
-<table class="table table-striped table-bordered table-vcenter" align="center" />
-    <tbody>
-    <tr>
-        <th> 项目名/ProjName </th>
-        <th> 类型/Type </th>
-        <th> 描述/Description </th>
-        <th> 赞/Stars </th>
-        <th> 进度/Progressing </th>
-    </tr>    
-    {%- for info  in data["code"] %}
-    <tr>
-        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
-        <td> <sub> {{info["type"]}} </td>
-        <td> <sub> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
-    </tr>
-    {%- endfor %}
-  </tbody>
-</table>
-
-
-**相关书籍**
-<table class="table table-striped table-bordered table-vcenter" align="center" />
-    <tbody>
-    <tr>
-        <th> 项目名/ProjName </th>
-        <th> 类型/Type </th>
-        <th> 描述/Description </th>
-        <th> 赞/Stars </th>
-        <th> 进度/Progressing </th>
-    </tr>    
-    {%- for info  in data["book"] %}
-    <tr>
-        <td align="center" ><a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a></td>
-        <td> <sub> {{info["type"]}} </td>
-        <td> <sub> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-{{info["progress"]}}%25-green&logo=github"/></td>
-    </tr>
     {%- endfor %}
   </tbody>
 </table>
