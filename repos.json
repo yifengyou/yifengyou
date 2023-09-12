@@ -1,4 +1,10 @@
 {
+  "LinuxHacker": {
+    "direction": "内核态",
+    "type": "笔记",
+    "progress": 1,
+    "code": 1
+  },
   "kdev": {
     "direction": "内核态",
     "type": "构建",
@@ -249,12 +255,6 @@
   "irqbalance": {
     "direction": "用户态",
     "type": "服务",
-    "progress": 1,
-    "code": 1
-  },
-  "LinuxHacker": {
-    "direction": "内核态",
-    "type": "笔记",
     "progress": 1,
     "code": 1
   }

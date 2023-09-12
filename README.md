@@ -68,6 +68,16 @@
       <th> 进度/Progressing </th>
     </tr>
     <tr>
+        <td> 笔记 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker</a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td> <sub> LinuxHacker </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat-square&labelColor=black"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
         <td> 构建 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/kdev" target="_blank"> kdev</a>
@@ -305,16 +315,6 @@
         </td>
         <td> <sub> x86汇编语言 从实模式到保护模式 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td> 笔记 </td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
-        </td>
-        <td> <sub> LinuxHacker </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
   </tbody>
