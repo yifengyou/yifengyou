@@ -157,8 +157,8 @@ def handle_generate_profile(args):
         repo_data = json.loads(repos_file.read())
 
     data = {
-        "direction": {},
-        "type": {},
+        "kernel": {},
+        "userspace": {},
         "diy": [],
         "code": [],
         "book": [],
@@ -166,15 +166,19 @@ def handle_generate_profile(args):
     }
     """
         data = {
-        "direction": {
-            "userspace": [PERINFO],
-            "kernel": [PERINFO],
-        },
-        "type": {
+        "kernel": {
             "构建": [PERINFO],
             "配置": [PERINFO],
             "扩展": [PERINFO],
             "书籍": [PERINFO],
+            ...
+        },
+        "userspace": {
+            "构建": [PERINFO],
+            "配置": [PERINFO],
+            "扩展": [PERINFO],
+            "书籍": [PERINFO],
+            ...
         },
         "diy": [PERINFO],
         "code": [PERINFO],
@@ -187,14 +191,15 @@ def handle_generate_profile(args):
         dir = value["direction"]
         type = value["type"]
         value["prj"] = key
-        if dir not in data["direction"]:
-            data["direction"][dir] = []
 
-        data["direction"][dir].append(value)
-
-        if type not in data["type"]:
-            data["type"][type] = []
-        data["type"][type].append(value)
+        if dir == "内核态":
+            if type not in data["kernel"]:
+                data["kernel"][type] = []
+            data["kernel"][type].append(value)
+        elif dir == "用户态":
+            if type not in data["userspace"]:
+                data["userspace"][type] = []
+            data["userspace"][type].append(value)
 
         if 'diy' in value and value['diy'] == 1:
             data["diy"].append(value)
@@ -216,15 +221,19 @@ def handle_generate_profile(args):
       <th></th>
       <th>内核态</th>
     </tr>
-    {%- for type_name,typeinfo_list  in data["type"].items() %}
+    {%- for type_name,typeinfo_list in data["kernel"].items() %}
     <tr>
         <td> {{type_name}} </td>
         <td>
+        <table>
         {%- for info  in typeinfo_list %}
-            {%- if info["direction"] == "内核态" and info["type"] == type_name %}
-            <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a><br/>
-            {%- endif %}
+            <tr>
+                <td>
+                    <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a>
+                </td>
+            </tr>
         {%- endfor %}
+        </table>
         </td>
     </tr>
     {%- endfor %}
@@ -237,14 +246,12 @@ def handle_generate_profile(args):
       <th></th>
       <th>用户态</th>
     </tr>
-    {%- for type_name,typeinfo_list  in data["type"].items() %}
+    {%- for type_name,typeinfo_list  in data["userspace"].items() %}
     <tr>
         <td> {{type_name}} </td>
         <td>
         {%- for info  in typeinfo_list %}
-            {%- if info["direction"] == "用户态" and info["type"] == type_name  %}
-                <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a><br/>
-            {%- endif %}
+            <a href="https://github.com/yifengyou/{{info["prj"]}}">{{info["prj"]}}</a><br/>
         {%- endfor %}
         </td>
     </tr>
