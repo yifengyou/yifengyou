@@ -4,7 +4,7 @@
         "type": "笔记",
         "progress": 1,
         "code": 1,
-        "description": "LinuxHacker"
+        "description": "Linux内核学习笔记"
     },
     "kdev": {
         "direction": "内核态",
@@ -258,7 +258,7 @@
         "type": "配置",
         "progress": 1,
         "diy": 1,
-        "description": "tmux 配置文件"
+        "description": "自用tmux配置"
     },
     "markdown-image-paste-delete": {
         "direction": "用户态",
