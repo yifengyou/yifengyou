@@ -71,7 +71,7 @@
         <td> 笔记 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/笔记-d00000"/>
         </td>
         <td> Linux内核学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat-square&labelColor=black"/></td>

@@ -2,8 +2,7 @@
   "LinuxHacker": {
     "direction": "内核态",
     "type": "笔记",
-    "progress": 1,
-    "code": 1
+    "progress": 1
   },
   "kdev": {
     "direction": "内核态",

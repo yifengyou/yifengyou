@@ -116,6 +116,7 @@ def get_github_repo_info(repo, namespace=GITHUB_NAMESPACE):
         # with open(TOKEN_FILE, 'r') as f:
         #     headers["Authorization"] = "yifengyou %s" % f.read().strip()
         print(f"get token from {TOKEN_FILE}")
+    print("")
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = json.loads(response.text)
@@ -195,6 +196,8 @@ def handle_generate_profile(args):
             value["label"] = "应用、解析"
         elif 'type' in value and value['type'] == "书籍":
             value["label"] = "书籍"
+        elif 'type' in value and value['type'] == "笔记":
+            value["label"] = "笔记"
 
         if dir == "内核态":
             if type not in data["kernel"]:
