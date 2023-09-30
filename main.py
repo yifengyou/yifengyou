@@ -14,7 +14,7 @@ REPOS = None
 TOKEN_FILE = "/etc/yifengyou"
 
 CONTENT = """
-<html>
+
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 </head>
@@ -335,7 +335,6 @@ def handle_generate_profile(args):
   </tbody>
 </table>
 
-</html>
 """
 
     template = Template(template)
