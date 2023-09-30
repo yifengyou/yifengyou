@@ -241,7 +241,7 @@ def handle_generate_profile(args):
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=social"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
     </tr>
     {%- endfor %}
@@ -269,7 +269,7 @@ def handle_generate_profile(args):
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=social"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
     </tr>
     {%- endfor %}
@@ -297,7 +297,7 @@ def handle_generate_profile(args):
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=social"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
     </tr>
     {%- endfor %}
@@ -325,7 +325,7 @@ def handle_generate_profile(args):
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=social"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
     </tr>
     {%- endfor %}
