@@ -537,11 +537,11 @@
     <tr>
         <td> 内核虚拟机 </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/learn-kvm" target="_blank"> learn-kvm</a>
+            <a href="https://github.com/yifengyou/kvm" target="_blank"> kvm</a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td> Qemu  KVM(Kernel Virtual Machine)学习笔记 </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/learn-kvm?style=social"/></td>
+        <td> rocky 8.6 qemu-kvm解析 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kvm?style=social"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
     <tr>
@@ -576,6 +576,16 @@
         </td>
         <td> rocky 8.6 docker解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/docker?style=social"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 容器编排 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/k8s" target="_blank"> k8s</a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td> rocky 8.6 k8s解析 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/k8s?style=social"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
   </tbody>

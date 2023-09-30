@@ -301,12 +301,12 @@
         "code": 1,
         "description": "rocky 9.2 irqbalance 解析"
     },
-    "learn-kvm": {
+    "kvm": {
         "direction": "虚拟化",
         "type": "内核虚拟机",
         "progress": 1,
         "code": 1,
-        "description": "Qemu  KVM(Kernel Virtual Machine)学习笔记"
+        "description": "rocky 8.6 qemu-kvm解析"
     },
     "libvirt": {
         "direction": "虚拟化",
@@ -321,5 +321,12 @@
         "progress": 1,
         "code": 1,
         "description": "rocky 8.6 docker解析"
+    },
+    "k8s": {
+        "direction": "云原生",
+        "type": "容器编排",
+        "progress": 1,
+        "code": 1,
+        "description": "rocky 8.6 k8s解析"
     }
 }
