@@ -237,7 +237,7 @@ def handle_generate_profile(args):
     <tr>
         <td> {{type_name}} </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}}</a>
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
@@ -265,7 +265,7 @@ def handle_generate_profile(args):
     <tr>
         <td> {{type_name}} </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}}</a>
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
@@ -293,7 +293,7 @@ def handle_generate_profile(args):
     <tr>
         <td> {{type_name}} </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}}</a>
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
@@ -321,7 +321,7 @@ def handle_generate_profile(args):
     <tr>
         <td> {{type_name}} </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}}</a>
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
             <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
