@@ -301,7 +301,7 @@
         "code": 1,
         "description": "rocky 9.2 irqbalance 解析"
     },
-    "kvm": {
+    "learn-kvm": {
         "direction": "虚拟化",
         "type": "内核虚拟机",
         "progress": 1,
