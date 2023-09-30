@@ -554,6 +554,16 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/libvirt?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
+    <tr>
+        <td> 云平台 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/openstack" target="_blank"> openstack </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td> rocky 8.6 openstack解析 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/openstack?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
   </tbody>
 </table>
 
