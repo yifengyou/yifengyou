@@ -256,5 +256,26 @@
     "type": "服务",
     "progress": 1,
     "code": 1
+  },
+  "learn-kvm": {
+    "direction": "虚拟化",
+    "type": "内核虚拟机",
+    "progress": 1,
+    "code": 1,
+    "description": "rocky 8.6 qemu-kvm解析"
+  },
+  "libvirt": {
+    "direction": "虚拟化",
+    "type": "管理工具",
+    "progress": 1,
+    "code": 1,
+    "description": "rocky 8.6 libvirt解析"
+  },
+  "docker": {
+    "direction": "云原生",
+    "type": "容器引擎",
+    "progress": 1,
+    "code": 1,
+    "description": "rocky 8.6 docker解析"
   }
 }
