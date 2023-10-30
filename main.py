@@ -299,7 +299,7 @@ def handle_generate_profile(args):
         <td> {{type_name}} </td>
         <td align="center">
             <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> {{info["description"]}} </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
@@ -355,6 +355,7 @@ def handle_generate_profile(args):
         <td> {{type_name}} </td>
         <td align="center">
             <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
         </td>
         <td> {{info["description"]}} </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
