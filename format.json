@@ -348,7 +348,7 @@
         "progress": 1,
         "description": "python代码片段"
     },
-    "golang": {
+    "go": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
@@ -360,7 +360,7 @@
         "progress": 1,
         "description": "rust学习"
     },
-    "shell": {
+    "bash": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,

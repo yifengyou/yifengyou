@@ -636,13 +636,13 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" alt="golang" title="golang"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go"> 
         </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/golang" target="_blank"> golang </a>
+            <a href="https://github.com/yifengyou/go" target="_blank"> go </a>
         </td>
         <td> 常用go代码片段 </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/golang?style=flat"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/go?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
     <tr>
@@ -658,13 +658,13 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png" alt="shell" title="shell"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="bash"> 
         </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/shell" target="_blank"> shell </a>
+            <a href="https://github.com/yifengyou/bash" target="_blank"> bash </a>
         </td>
         <td> shell代码片段 </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/shell?style=flat"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bash?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
   </tbody>

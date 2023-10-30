@@ -297,7 +297,7 @@
     "type": "编程语言",
     "progress": 1
   },
-  "golang": {
+  "go": {
     "direction": "编程语言",
     "type": "编程语言",
     "progress": 1
@@ -307,7 +307,7 @@
     "type": "编程语言",
     "progress": 1
   },
-  "shell": {
+  "bash": {
     "direction": "编程语言",
     "type": "编程语言",
     "progress": 1
