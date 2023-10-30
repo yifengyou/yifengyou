@@ -538,7 +538,7 @@
         <td> 内核虚拟机 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/learn-kvm" target="_blank"> learn-kvm </a>
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> Qemu  KVM(Kernel Virtual Machine)学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/learn-kvm?style=flat"/></td>
@@ -548,7 +548,7 @@
         <td> 管理工具 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/libvirt" target="_blank"> libvirt </a>
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> rocky 8.6 libvirt解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/libvirt?style=flat"/></td>
@@ -558,7 +558,7 @@
         <td> 云平台 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/openstack" target="_blank"> openstack </a>
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td> openstack学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/openstack?style=flat"/></td>
@@ -616,7 +616,7 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> c代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/c?style=flat"/></td>
@@ -626,7 +626,7 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> python代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/python?style=flat"/></td>
@@ -636,7 +636,7 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/golang" target="_blank"> golang </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> 常用go代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/golang?style=flat"/></td>
@@ -646,7 +646,7 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> rust学习 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rust?style=flat"/></td>
@@ -656,7 +656,7 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/shell" target="_blank"> shell </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c">
         </td>
         <td> shell代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/shell?style=flat"/></td>
