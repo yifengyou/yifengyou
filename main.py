@@ -161,6 +161,7 @@ def handle_generate_profile(args):
         "userspace": {},
         "virtualization": {},
         "cloudnative": {},
+        "programmer": {},
         "diy": [],
         "code": [],
         "book": [],
@@ -216,6 +217,10 @@ def handle_generate_profile(args):
             if type not in data["cloudnative"]:
                 data["cloudnative"][type] = []
             data["cloudnative"][type].append(value)
+        elif dir == "编程语言":
+            if type not in data["programmer"]:
+                data["programmer"][type] = []
+            data["programmer"][type].append(value)
 
         data["all"].append(value)
 
@@ -333,6 +338,33 @@ def handle_generate_profile(args):
   </tbody>
 </table>
 
+**编程语言**
+
+<table class="table table-striped table-bordered table-vcenter" align="center">
+  <tbody>
+    <tr>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
+    </tr>
+    {%- for type_name,typeinfo_list in data["programmer"].items() %}
+    {%- for info  in typeinfo_list %}
+    <tr>
+        <td> {{type_name}} </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
+        </td>
+        <td> {{info["description"]}} </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
+    </tr>
+    {%- endfor %}
+    {%- endfor %}
+  </tbody>
+</table>
 """
 
     template = Template(template)

@@ -222,7 +222,7 @@
             <a href="https://github.com/yifengyou/drgn" target="_blank"> drgn </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td> Programmable debugger </td>
+        <td> rocky linux 8.6 drgn-0.0.24解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/drgn?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -540,7 +540,7 @@
             <a href="https://github.com/yifengyou/learn-kvm" target="_blank"> learn-kvm </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td> rocky 8.6 qemu-kvm解析 </td>
+        <td> Qemu  KVM(Kernel Virtual Machine)学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/learn-kvm?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -560,7 +560,7 @@
             <a href="https://github.com/yifengyou/openstack" target="_blank"> openstack </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td> rocky 8.6 openstack解析 </td>
+        <td> openstack学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/openstack?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -596,6 +596,70 @@
         </td>
         <td> rocky 8.6 k8s解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/k8s?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+  </tbody>
+</table>
+
+**编程语言**
+
+<table class="table table-striped table-bordered table-vcenter" align="center">
+  <tbody>
+    <tr>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
+    </tr>
+    <tr>
+        <td> 编程语言 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+        </td>
+        <td> c代码片段 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/c?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 编程语言 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+        </td>
+        <td> python代码片段 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/python?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 编程语言 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/golang" target="_blank"> golang </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+        </td>
+        <td> 常用go代码片段 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/golang?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 编程语言 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+        </td>
+        <td> rust学习 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rust?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 编程语言 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/shell" target="_blank"> shell </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
+        </td>
+        <td> shell代码片段 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/shell?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
   </tbody>
