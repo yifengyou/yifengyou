@@ -616,7 +616,6 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
         </td>
         <td> c代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/c?style=flat"/></td>
@@ -626,7 +625,6 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
         </td>
         <td> python代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/python?style=flat"/></td>
@@ -636,7 +634,6 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/golang" target="_blank"> golang </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
         </td>
         <td> 常用go代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/golang?style=flat"/></td>
@@ -646,7 +643,6 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
         </td>
         <td> rust学习 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rust?style=flat"/></td>
@@ -656,7 +652,6 @@
         <td> 编程语言 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/shell" target="_blank"> shell </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/-d00000"/>
         </td>
         <td> shell代码片段 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/shell?style=flat"/></td>
