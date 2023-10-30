@@ -353,7 +353,7 @@ def handle_generate_profile(args):
     {%- for info  in typeinfo_list %}
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/{{type_name}}/{{type_name}}.png" alt="{{type_name}}" title="{{type_name}}"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/{{info["prj"]}}/{{info["prj"]}}.png" alt="{{info["prj"]}}" title="{{info["prj"]}}"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>

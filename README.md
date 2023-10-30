@@ -614,7 +614,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/编程语言/编程语言.png" alt="编程语言" title="编程语言"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
@@ -625,7 +625,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/编程语言/编程语言.png" alt="编程语言" title="编程语言"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
@@ -636,7 +636,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/编程语言/编程语言.png" alt="编程语言" title="编程语言"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" alt="golang" title="golang"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/golang" target="_blank"> golang </a>
@@ -647,7 +647,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/编程语言/编程语言.png" alt="编程语言" title="编程语言"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" title="rust"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
@@ -658,7 +658,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/编程语言/编程语言.png" alt="编程语言" title="编程语言"> 
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png" alt="shell" title="shell"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/shell" target="_blank"> shell </a>
