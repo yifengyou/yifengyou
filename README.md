@@ -614,7 +614,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c"> 
+            <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" title="c"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
@@ -625,7 +625,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python"> 
+            <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
@@ -636,7 +636,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go"> 
+            <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/go" target="_blank"> go </a>
@@ -647,7 +647,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" title="rust"> 
+            <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" title="rust"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
@@ -658,7 +658,7 @@
     </tr>
     <tr>
         <td> 
-            <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="bash"> 
+            <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" title="bash"> 
         </td>
         <td align="center">
             <a href="https://github.com/yifengyou/bash" target="_blank"> bash </a>
