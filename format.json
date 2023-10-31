@@ -243,127 +243,127 @@
         "direction": "内核态",
         "type": "书籍",
         "progress": 1,
-        "description": "x86汇编语言 从实模式到保护模式"
+        "description": ""
     },
     "vim": {
         "direction": "用户态",
         "type": "配置",
         "progress": 1,
         "diy": 1,
-        "description": "自用vim配置"
+        "description": ""
     },
     "tmux": {
         "direction": "用户态",
         "type": "配置",
         "progress": 1,
         "diy": 1,
-        "description": "自用tmux配置"
+        "description": ""
     },
     "markdown-image-paste-delete": {
         "direction": "用户态",
         "type": "扩展",
         "progress": 1,
         "diy": 1,
-        "description": "Atom markdown贴图插件"
+        "description": ""
     },
     "bcc": {
         "direction": "内核态",
         "type": "调试观测",
         "progress": 1,
         "code": 1,
-        "description": "Rocky Linux 8.6 bcc解析"
+        "description": ""
     },
     "gdb": {
         "direction": "用户态",
         "type": "调试观测",
         "progress": 1,
         "code": 1,
-        "description": "gdb学习笔记"
+        "description": ""
     },
     "kgdb": {
         "direction": "内核态",
         "type": "调试观测",
         "progress": 1,
         "code": 1,
-        "description": "kdgb内核调试"
+        "description": ""
     },
     "iperf3": {
         "direction": "用户态",
         "type": "工具",
         "progress": 1,
         "code": 1,
-        "description": "rocky 8.6 iperf3解析"
+        "description": ""
     },
     "irqbalance": {
         "direction": "用户态",
         "type": "服务",
         "progress": 1,
         "code": 1,
-        "description": "rocky 9.2 irqbalance 解析"
+        "description": ""
     },
     "learn-kvm": {
         "direction": "虚拟化",
         "type": "内核虚拟机",
         "progress": 1,
         "code": 1,
-        "description": "Qemu  KVM(Kernel Virtual Machine)学习笔记"
+        "description": ""
     },
     "libvirt": {
         "direction": "虚拟化",
         "type": "管理工具",
         "progress": 1,
         "code": 1,
-        "description": "rocky 8.6 libvirt解析"
+        "description": ""
     },
     "openstack": {
         "direction": "虚拟化",
         "type": "云平台",
         "progress": 1,
         "code": 1,
-        "description": "openstack学习笔记"
+        "description": ""
     },
     "docker": {
         "direction": "云原生",
         "type": "容器引擎",
         "progress": 1,
         "code": 1,
-        "description": "rocky 8.6 docker解析"
+        "description": ""
     },
     "k8s": {
         "direction": "云原生",
         "type": "容器编排",
         "progress": 1,
         "code": 1,
-        "description": "rocky 8.6 k8s解析"
+        "description": ""
     },
     "c": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
-        "description": "c代码片段"
+        "description": ""
     },
     "python": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
-        "description": "python代码片段"
+        "description": ""
     },
     "go": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
-        "description": "常用go代码片段"
+        "description": ""
     },
     "rust": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
-        "description": "rust学习"
+        "description": ""
     },
     "bash": {
         "direction": "编程语言",
         "type": "编程语言",
         "progress": 1,
-        "description": "shell代码片段"
+        "description": ""
     }
 }
