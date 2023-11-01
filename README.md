@@ -252,7 +252,7 @@
             <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> Rocky Linux 8.6 bcc解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bcc?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -262,7 +262,7 @@
             <a href="https://github.com/yifengyou/kgdb" target="_blank"> kgdb </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> kdgb内核调试 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kgdb?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -312,7 +312,7 @@
             <a href="https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode" target="_blank"> X86-assembly-language-from-real-mode-to-protection-mode </a>
             <img alt="Progressing" src="https://img.shields.io/badge/书籍-d00000"/>
         </td>
-        <td>  </td>
+        <td> x86汇编语言 从实模式到保护模式 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -456,7 +456,7 @@
             <a href="https://github.com/yifengyou/iperf3" target="_blank"> iperf3 </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> rocky 8.6 iperf3解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/iperf3?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -476,7 +476,7 @@
             <a href="https://github.com/yifengyou/irqbalance" target="_blank"> irqbalance </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> rocky 9.2 irqbalance 解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/irqbalance?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -486,7 +486,7 @@
             <a href="https://github.com/yifengyou/vim" target="_blank"> vim </a>
             <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
         </td>
-        <td>  </td>
+        <td> 自用vim配置 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/vim?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -496,7 +496,7 @@
             <a href="https://github.com/yifengyou/tmux" target="_blank"> tmux </a>
             <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
         </td>
-        <td>  </td>
+        <td> 自用tmux配置 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/tmux?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -506,7 +506,7 @@
             <a href="https://github.com/yifengyou/markdown-image-paste-delete" target="_blank"> markdown-image-paste-delete </a>
             <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
         </td>
-        <td>  </td>
+        <td> Atom markdown贴图插件 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/markdown-image-paste-delete?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -516,7 +516,7 @@
             <a href="https://github.com/yifengyou/gdb" target="_blank"> gdb </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> gdb学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/gdb?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -540,7 +540,7 @@
             <a href="https://github.com/yifengyou/learn-kvm" target="_blank"> learn-kvm </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> Qemu  KVM(Kernel Virtual Machine)学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/learn-kvm?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -550,7 +550,7 @@
             <a href="https://github.com/yifengyou/libvirt" target="_blank"> libvirt </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> rocky 8.6 libvirt解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/libvirt?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -560,7 +560,7 @@
             <a href="https://github.com/yifengyou/openstack" target="_blank"> openstack </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> openstack学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/openstack?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -584,7 +584,7 @@
             <a href="https://github.com/yifengyou/docker" target="_blank"> docker </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> rocky 8.6 docker解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/docker?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -594,7 +594,7 @@
             <a href="https://github.com/yifengyou/k8s" target="_blank"> k8s </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>  </td>
+        <td> rocky 8.6 k8s解析 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/k8s?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -619,7 +619,7 @@
         <td align="center">
             <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
         </td>
-        <td>  </td>
+        <td> c 编程语言 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/c?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -630,7 +630,7 @@
         <td align="center">
             <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
         </td>
-        <td>  </td>
+        <td> python 编程语言 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/python?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -641,7 +641,7 @@
         <td align="center">
             <a href="https://github.com/yifengyou/go" target="_blank"> go </a>
         </td>
-        <td>  </td>
+        <td> go 编程语言 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/go?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -652,7 +652,7 @@
         <td align="center">
             <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
         </td>
-        <td>  </td>
+        <td> rust 编程语言 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/rust?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
@@ -663,7 +663,7 @@
         <td align="center">
             <a href="https://github.com/yifengyou/bash" target="_blank"> bash </a>
         </td>
-        <td>  </td>
+        <td> bash 编程语言 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bash?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
