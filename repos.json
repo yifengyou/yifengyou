@@ -100,6 +100,17 @@
     "progress": 1,
     "code": 1
   },
+  "eBPF": {
+    "direction": "eBPF",
+    "type": "笔记",
+    "progress": 1
+  },
+  "libbpf": {
+    "direction": "eBPF",
+    "type": "调试观测",
+    "progress": 1,
+    "code": 1
+  },
   "syscare": {
     "direction": "内核态",
     "type": "工具",
