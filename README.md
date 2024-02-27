@@ -42,6 +42,39 @@
 
 
 
+**eBPF**
+
+<table class="table table-striped table-bordered table-vcenter" align="center">
+  <tbody>
+    <tr>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
+    </tr>
+    <tr>
+        <td> 调试观测 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td> bpftrace </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bpftrace?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+    <tr>
+        <td> 调试观测 </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td> Rocky Linux 8.6 bcc解析 </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bcc?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
+    </tr>
+  </tbody>
+</table>
 
 **内核态**
 
@@ -197,16 +230,6 @@
     <tr>
         <td> 调试观测 </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
-        </td>
-        <td> bpftrace </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bpftrace?style=flat"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td> 调试观测 </td>
-        <td align="center">
             <a href="https://github.com/yifengyou/drgn" target="_blank"> drgn </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
@@ -232,16 +255,6 @@
         </td>
         <td> kdump/kexec userspace tools </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/kexec-tools?style=flat"/></td>
-        <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
-    </tr>
-    <tr>
-        <td> 调试观测 </td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
-        </td>
-        <td> Rocky Linux 8.6 bcc解析 </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/bcc?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
     <tr>
@@ -657,3 +670,5 @@
     </tr>
   </tbody>
 </table>
+
+
