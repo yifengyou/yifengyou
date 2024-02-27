@@ -145,6 +145,7 @@ def handle_generate_profile(args):
         repo_data = json.loads(repos_file.read())
 
     data = {
+        "eBPF": {},
         "kernel": {},
         "userspace": {},
         "virtualization": {},
@@ -157,6 +158,13 @@ def handle_generate_profile(args):
     }
     """
         data = {
+        "eBPF": {
+            "构建": [PERINFO],
+            "配置": [PERINFO],
+            "扩展": [PERINFO],
+            "书籍": [PERINFO],
+            ...
+        },
         "kernel": {
             "构建": [PERINFO],
             "配置": [PERINFO],
@@ -189,7 +197,11 @@ def handle_generate_profile(args):
         elif 'type' in value and value['type'] == "笔记":
             value["label"] = "笔记"
 
-        if dir == "内核态":
+        if dir == "eBPF":
+            if type not in data["eBPF"]:
+                data["eBPF"][type] = []
+            data["eBPF"][type].append(value)
+        elif dir == "内核态":
             if type not in data["kernel"]:
                 data["kernel"][type] = []
             data["kernel"][type].append(value)
@@ -213,6 +225,33 @@ def handle_generate_profile(args):
         data["all"].append(value)
 
     template = """
+**eBPF**
+
+<table class="table table-striped table-bordered table-vcenter" align="center">
+  <tbody>
+    <tr>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
+    </tr>
+    {%- for type_name,typeinfo_list in data["eBPF"].items() %}
+    {%- for info  in typeinfo_list %}
+    <tr>
+        <td> {{type_name}} </td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/{{info["prj"]}}" target="_blank"> {{info["prj"]}} </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/{{info["label"]}}-d00000"/>
+        </td>
+        <td> {{info["description"]}} </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/{{info["prj"]}}?style=flat"/></td>
+        <td><img alt="Progressing" src="https://img.shields.io/badge/{{info["progress"]}}%25-green&logo=github"/></td>
+    </tr>
+    {%- endfor %}
+    {%- endfor %}
+  </tbody>
+</table>
 
 **内核态**
 
@@ -354,6 +393,9 @@ def handle_generate_profile(args):
     {%- endfor %}
   </tbody>
 </table>
+
+
+
 """
 
     template = Template(template)

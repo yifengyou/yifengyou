@@ -89,7 +89,13 @@
     "code": 1
   },
   "bpftrace": {
-    "direction": "内核态",
+    "direction": "eBPF",
+    "type": "调试观测",
+    "progress": 1,
+    "code": 1
+  },
+  "bcc": {
+    "direction": "eBPF",
     "type": "调试观测",
     "progress": 1,
     "code": 1
@@ -226,12 +232,6 @@
     "type": "扩展",
     "progress": 1,
     "diy": 1
-  },
-  "bcc": {
-    "direction": "内核态",
-    "type": "调试观测",
-    "progress": 1,
-    "code": 1
   },
   "gdb": {
     "direction": "用户态",
