@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yifengyou&theme=default&hide_border=true&show_icons=true&hide_title=true" width="49%" />
     </div>
     <br><br>
-    <strong>技术方向：操作系统、内核、虚拟化、云原生 :blush: 欢迎交流~ QQ:842056007 :blush: </strong>
+    <strong>技术方向：操作系统、内核、安全、虚拟化、云原生 :blush: 欢迎交流~ QQ:842056007 :blush: </strong>
     <br><br>
     <a href="https://github.com/yifengyou">
       <img src="https://badges.strrl.dev/visits/yifengyou/yifengyou?style=flat-square&color=black&logo=github">
