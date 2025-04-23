@@ -72,11 +72,11 @@
     <tr>
         <td> 笔记 </td>
         <td align="center">
-            <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker </a>
+            <a href="https://github.com/yifengyou/ksrc" target="_blank"> ksrc </a>
             <img alt="Progressing" src="https://img.shields.io/badge/笔记-d00000"/>
         </td>
-        <td> Linux内核学习笔记 </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat"/></td>
+        <td> Linux内核笔记</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/ksrc?style=flat"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/1%25-green&logo=github"/></td>
     </tr>
     <tr>
