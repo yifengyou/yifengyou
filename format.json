@@ -3,7 +3,7 @@
         "direction": "内核态",
         "type": "笔记",
         "progress": 1,
-        "description": "Linux内核学习笔记"
+        "description": "Linux内核笔记"
     },
     "kdev": {
         "direction": "内核态",
@@ -116,6 +116,19 @@
         "progress": 1,
         "code": 1,
         "description": "Rocky Linux 8.6 bcc解析"
+    },
+    "eBPF": {
+        "direction": "eBPF",
+        "type": "笔记",
+        "progress": 1,
+        "description": "eBPF学习"
+    },
+    "libbpf": {
+        "direction": "eBPF",
+        "type": "调试观测",
+        "progress": 1,
+        "code": 1,
+        "description": ""
     },
     "syscare": {
         "direction": "内核态",
