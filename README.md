@@ -145,7 +145,7 @@
             <a href="https://github.com/yifengyou/drgn" target="_blank"> drgn </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky linux 8.6 drgn-0.0.24解析</td>
+        <td>Rocky linux 8.6 drgn-0.0.24解析</td>
     </tr>
     <tr>
         <td>调试观测<br/>内核态</td>
@@ -251,7 +251,7 @@
             <a href="https://github.com/yifengyou/rpmbuild" target="_blank"> rpmbuild </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 8.6 rpmbuild</td>
+        <td>Rocky 8.6 rpmbuild</td>
     </tr>
     <tr>
         <td>工具<br/>用户态</td>
@@ -315,7 +315,7 @@
             <a href="https://github.com/yifengyou/iperf3" target="_blank"> iperf3 </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 8.6 iperf3解析</td>
+        <td>Rocky 8.6 iperf3解析</td>
     </tr>
     <tr>
         <td>服务<br/>用户态</td>
@@ -331,7 +331,7 @@
             <a href="https://github.com/yifengyou/irqbalance" target="_blank"> irqbalance </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 9.2 irqbalance 解析</td>
+        <td>Rocky 9.2 irqbalance 解析</td>
     </tr>
     <tr>
         <td>配置<br/>用户态</td>
@@ -371,7 +371,7 @@
             <a href="https://github.com/yifengyou/libvirt" target="_blank"> libvirt </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 8.6 libvirt解析</td>
+        <td>Rocky 8.6 libvirt解析</td>
     </tr>
     <tr>
         <td>云平台<br/>虚拟化</td>
@@ -387,7 +387,7 @@
             <a href="https://github.com/yifengyou/docker" target="_blank"> docker </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 8.6 docker解析</td>
+        <td>Rocky 8.6 docker解析</td>
     </tr>
     <tr>
         <td>容器编排<br/>云原生</td>
@@ -395,57 +395,57 @@
             <a href="https://github.com/yifengyou/k8s" target="_blank"> k8s </a>
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
-        <td>rocky 8.6 k8s解析</td>
+        <td>Rocky 8.6 k8s解析</td>
     </tr>
     <tr>
         <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/c" target="_blank"> c </a>
+            <a href="https://github.com/yifengyou/c" target="_blank"> C/C++ </a>
             <img height="30"
                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
                  alt="c" title="c">
         </td>
-        <td>c 编程语言</td>
+        <td>C/C++ 语言</td>
     </tr>
     <tr>
         <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/python" target="_blank"> python </a>
+            <a href="https://github.com/yifengyou/python" target="_blank"> Python </a>
             <img height="30"
                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
                  alt="python" title="python">
         </td>
-        <td>python 编程语言</td>
+        <td>Python 语言</td>
     </tr>
     <tr>
         <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/go" target="_blank"> go </a>
+            <a href="https://github.com/yifengyou/go" target="_blank"> Golang </a>
             <img height="30"
                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"
                  alt="go" title="go">
         </td>
-        <td>go 编程语言</td>
+        <td>Golang 语言</td>
     </tr>
     <tr>
         <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/rust" target="_blank"> rust </a>
+            <a href="https://github.com/yifengyou/rust" target="_blank"> Rust </a>
             <img height="30"
                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"
                  alt="rust" title="rust">
         </td>
-        <td>rust 编程语言</td>
+        <td>Rust 语言</td>
     </tr>
     <tr>
         <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/bash" target="_blank"> bash </a>
+            <a href="https://github.com/yifengyou/bash" target="_blank"> Bash </a>
             <img height="30"
                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
                  alt="bash" title="bash">
         </td>
-        <td>bash 编程语言</td>
+        <td>Shell 编程语言</td>
     </tr>
     </tbody>
 </table>
