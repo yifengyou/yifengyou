@@ -12,20 +12,12 @@
         <th>描述<br/>Description</th>
     </tr>
     <tr>
-        <td>调试观测<br/>eBPF</td>
+        <td>构建工具<br/>内核态</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+            <a href="https://github.com/yifengyou/kdev" target="_blank"> kdev </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
         </td>
-        <td>bpftrace</td>
-    </tr>
-    <tr>
-        <td>调试观测<br/>eBPF</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
-        </td>
-        <td>Rocky Linux 8.6 bcc解析</td>
+        <td>Linux内核开发环境构建工具 （2.*/3.*/4.*/5.*/6.*）</td>
     </tr>
     <tr>
         <td>笔记<br/>内核态</td>
@@ -36,12 +28,70 @@
         <td>Linux内核笔记</td>
     </tr>
     <tr>
-        <td>构建<br/>内核态</td>
+        <td>编程语言</td>
         <td align="center">
-            <a href="https://github.com/yifengyou/kdev" target="_blank"> kdev </a>
-            <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
+            <a href="https://github.com/yifengyou/c" target="_blank"> C/C++ </a>
+            <img height="30"
+                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
+                 alt="c" title="c">
         </td>
-        <td>Linux内核开发环境构建工具 （2.*/3.*/4.*/5.*/6.*）</td>
+        <td>C/C++ 语言</td>
+    </tr>
+    <tr>
+        <td>编程语言</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/python" target="_blank"> Python </a>
+            <img height="30"
+                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+                 alt="python" title="python">
+        </td>
+        <td>Python 语言</td>
+    </tr>
+    <tr>
+        <td>编程语言</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/golang" target="_blank"> Golang </a>
+            <img height="30"
+                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"
+                 alt="go" title="go">
+        </td>
+        <td>Golang 语言</td>
+    </tr>
+    <tr>
+        <td>编程语言</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/rust" target="_blank"> Rust </a>
+            <img height="30"
+                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"
+                 alt="rust" title="rust">
+        </td>
+        <td>Rust 语言</td>
+    </tr>
+    <tr>
+        <td>编程语言</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/bash" target="_blank"> Bash </a>
+            <img height="30"
+                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
+                 alt="bash" title="bash">
+        </td>
+        <td>Shell 编程语言</td>
+    </tr>
+    <tr>
+        <td>调试观测<br/>eBPF</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/bcc" target="_blank"> bcc </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td>Rocky Linux 8.6 bcc解析</td>
+    </tr>
+    <tr>
+        <td>调试观测<br/>eBPF</td>
+        <td align="center">
+            <a href="https://github.com/yifengyou/bpftrace" target="_blank"> bpftrace </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+        </td>
+        <td>bpftrace</td>
     </tr>
     <tr>
         <td>工具<br/>内核态</td>
@@ -396,56 +446,6 @@
             <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
         </td>
         <td>Rocky 8.6 k8s解析</td>
-    </tr>
-    <tr>
-        <td>编程语言</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/c" target="_blank"> C/C++ </a>
-            <img height="30"
-                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"
-                 alt="c" title="c">
-        </td>
-        <td>C/C++ 语言</td>
-    </tr>
-    <tr>
-        <td>编程语言</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/python" target="_blank"> Python </a>
-            <img height="30"
-                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-                 alt="python" title="python">
-        </td>
-        <td>Python 语言</td>
-    </tr>
-    <tr>
-        <td>编程语言</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/go" target="_blank"> Golang </a>
-            <img height="30"
-                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"
-                 alt="go" title="go">
-        </td>
-        <td>Golang 语言</td>
-    </tr>
-    <tr>
-        <td>编程语言</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/rust" target="_blank"> Rust </a>
-            <img height="30"
-                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"
-                 alt="rust" title="rust">
-        </td>
-        <td>Rust 语言</td>
-    </tr>
-    <tr>
-        <td>编程语言</td>
-        <td align="center">
-            <a href="https://github.com/yifengyou/bash" target="_blank"> Bash </a>
-            <img height="30"
-                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
-                 alt="bash" title="bash">
-        </td>
-        <td>Shell 编程语言</td>
     </tr>
     </tbody>
 </table>
