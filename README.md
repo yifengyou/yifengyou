@@ -447,6 +447,54 @@
         </td>
         <td>Rocky 8.6 k8s解析</td>
     </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/rk3588-owl-ai-box-plus" target="_blank"> rk3588-owl-ai-box-plus </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3588-d00000"/>
+        </td>
+        <td> 猫头鹰微视科技（owlvisiontech） RK3588开发板 </td>
+    </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/Liontron-D3588" target="_blank"> Liontron-D3588 </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3588-d00000"/>
+        </td>
+        <td> 亮钻D3588（RK3588）Liontron-D3588 </td>
+    </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/aiot-3588a" target="_blank"> AIOT-3588A </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3588-d00000"/>
+        </td>
+        <td> 视美泰AIOT-3588A开发板 </td>
+    </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/TB-RK3399ProD" target="_blank"> TB-RK3399ProD </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3399-d00000"/>
+        </td>
+        <td> Toybrick TB-RK3399ProD开发板 </td>
+    </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/eaidk-610" target="_blank"> EAIDK-610  </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3399-d00000"/>
+        </td>
+        <td> OpenAILAB EAIDK-610 开发板 </td>
+    </tr>
+    <tr>
+        <td>开发板</td>
+        <td align="center">
+            <a href="http://github.com/yifengyou/EMB3531" target="_blank"> EMB3531  </a>
+            <img alt="Progressing" src="https://img.shields.io/badge/RK3399-d00000"/>
+        </td>
+        <td> 华北工控EMB3531 </td>
+    </tr>
     </tbody>
 </table>
 
